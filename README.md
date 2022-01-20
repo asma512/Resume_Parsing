@@ -49,5 +49,5 @@ python -m streamlit run Resume_Parser.py
 
 Here is a screenshot of our application:
 
-<img width="650" alt="app_screenshot" src="https://media.discordapp.net/attachments/890017873324572729/923148182119141406/unknown.png?width=1814&height=982">
+
 
